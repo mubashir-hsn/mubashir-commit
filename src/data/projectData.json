@@ -47,7 +47,7 @@
             "/litefitfiles/e7.png",
             "/litefitfiles/e8.png",
             "/litefitfiles/e9.png",
-            "/litefitfiles/e10.pne"
+            "/litefitfiles/e10.png"
         ],
         "features": [
             "User Authentication & Authorization (JWT-based)",
