@@ -3,16 +3,16 @@
         "id": "c9f3xk2lv",
         "name": "Careerly - AI Career Coach",
         "description": "Careerly is an AI-powered career coach offering smart interview prep, personalized cover letters, resume building, and real-time job market insights.",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c1.png?raw=true",
+        "thumbnail": "/careerlyfiles/c1.png",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c5.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c6.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c7.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/careerlyfiles/c8.png?raw=true"
+            "/careerlyfiles/c1.png",
+            "/careerlyfiles/c2.png",
+            "/careerlyfiles/c3.png",
+            "/careerlyfiles/c4.png",
+            "/careerlyfiles/c5.png",
+            "/careerlyfiles/c6.png",
+            "/careerlyfiles/c7.png",
+            "/careerlyfiles/c8.png"
         ],
         "features": [
             "AI-powered industrial insights",
@@ -36,18 +36,18 @@
         "id": "litefit_7f3a9x1",
         "name": "LiteFit – Modern E-Commerce Website",
         "description": "LiteFit is a modern, full-stack MERN e-commerce platform designed for selling men's and women's clothing online. It provides users with a sleek shopping experience, secure payments via Stripe, personalized product recommendations, and a beautiful responsive UI built with React and Tailwind CSS.",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e4.png?raw=true",
+        "thumbnail": "/litefitfiles/e4.png",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e5.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e6.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e7.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e8.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e9.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/litefitfiles/e10.png?raw=true"
+            "/litefitfiles/e1.png",
+            "/litefitfiles/e2.png",
+            "/litefitfiles/e3.png",
+            "/litefitfiles/e4.png",
+            "/litefitfiles/e5.png",
+            "/litefitfiles/e6.png",
+            "/litefitfiles/e7.png",
+            "/litefitfiles/e8.png",
+            "/litefitfiles/e9.png",
+            "/litefitfiles/e10.pne"
         ],
         "features": [
             "User Authentication & Authorization (JWT-based)",
@@ -117,13 +117,13 @@
         "id": "stayzio_9d5r8q2",
         "name": "Stayzio – A Blog Platform",
         "description": "Stayzio is a modern blog platform that enables users to read, write, and manage blogs effortlessly. It includes an admin panel for content moderation, user management, and blog analytics. The platform focuses on clean UI, performance, and enhance user experience .",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s1.png?raw=true",
+        "thumbnail": "/blogfiles/s1.png",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/blogfiles/s5.png?raw=true"
+            "/blogfiles/s1.png",
+            "/blogfiles/s2.png",
+            "/blogfiles/s3.png",
+            "/blogfiles/s4.png",
+            "/blogfiles/s5.png"
         ],
         "features": [
             "User Authentication",
@@ -150,13 +150,13 @@
         "id": "ai_resume_analyzer_01",
         "name": "AI Resume Analyzer",
         "description": "AI-Resume-Analyzer is a Vite-powered web app that allows users to upload and analyze resumes using AI. It calculates ATS scores, highlights strengths and weaknesses, and provides section-wise tips for improvement—covering skills, structure, summary, and more. Built with React Router and Puter.js for seamless routing and secure authentication.",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r5.png?raw=true",
+        "thumbnail": "/resumefiles/r5.pue",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/resumefiles/r5.png?raw=true"
+            "/resumefiles/r1.pue",
+            "/resumefiles/r2.pue",
+            "/resumefiles/r3.pue",
+            "/resumefiles/r4.pue",
+            "/resumefiles/r5.pue"
         ],
         "features": [
             "AI-powered Resume Analysis and ATS Scoring",
@@ -182,13 +182,13 @@
         "id": "ichat_4k8s1r9",
         "name": "iChat – Real Time Messaging App",
         "description": "iChat is a modern real-time chat application built with the MERN stack. It allows users to create accounts, browse and chat instantly with other users, and manage their profile including changing their password. The app ensures data security and provides a smooth messaging experience with Socket.IO.",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i3.png?raw=true",
+        "thumbnail": "/chatfiles/i3.png",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/chatfiles/i5.png?raw=true"
+            "/chatfiles/i1.png",
+            "/chatfiles/i2.png",
+            "/chatfiles/i3.png",
+            "/chatfiles/i4.png",
+            "/chatfiles/i5.png"
         ],
         "features": [
             "User Registration and Login (JWT-based Authentication)",
