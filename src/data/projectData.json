@@ -88,13 +88,13 @@
         "id": "imusic_9t6b2f4",
         "name": "iMusic – Modern Music Courses UI Design",
         "description": "iMusic is a modern and elegant UI design concept that showcases music-related courses in a visually appealing layout. Built with Next.js, TypeScript, Aceternity UI, and ShadCN for a smooth and responsive experience.",
-        "thumbnail": "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m1.png?raw=true",
+        "thumbnail": "/imusic/m1.png",
         "images": [
-            "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m4.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/imusicfile/m5.png?raw=true"
+            "/imusic/m1.png",
+            "/imusic/m2.png",
+            "/imusic/m3.png",
+            "/imusic/m4.png",
+            "/imusic/m5.png"
         ],
         "features": [
             "Music courses showcase",
@@ -224,73 +224,72 @@
         "id": "quizapp_7h4t2v9",
         "name": "Quizora – Quiz Management System",
         "description": "Quizora is a web-based system built with PHP, MySQL, jQuery, and Bootstrap that allows students to take quizzes and view results, while admins can manage quizzes, courses, and students through an intuitive dashboard.",
-        "thumbnail":"https://github.com/mubashir-hsn/project-files/blob/main/quizora/q2.png?raw=true",
-        "images":[
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q0.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q5.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q6.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q7.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q8.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/quizora/q3.png?raw=true"
+        "thumbnail": "/quizora/q2.png",
+        "images": [
+            "/quizora/q0.png",
+            "/quizora/q2.png",
+            "/quizora/q1.png",
+            "/quizora/q5.png",
+            "/quizora/q6.png",
+            "/quizora/q7.png",
+            "/quizora/q8.png",
+            "/quizora/q3.png"
         ],
         "features": [
-          "User registration and login",
-          "Interactive student dashboard",
-          "Take quizzes and view results",
-          "Profile management for users",
-          "Admin login and dashboard",
-          "Manage students, courses, and quizzes",
-          "Add questions and view performance",
-          "Responsive and modern UI"
+            "User registration and login",
+            "Interactive student dashboard",
+            "Take quizzes and view results",
+            "Profile management for users",
+            "Admin login and dashboard",
+            "Manage students, courses, and quizzes",
+            "Add questions and view performance",
+            "Responsive and modern UI"
         ],
         "technologies": [
-          "PHP",
-          "MySQL",
-          "jQuery",
-          "Bootstrap 5",
-          "HTML5",
-          "CSS3",
-          "JavaScript"
+            "PHP",
+            "MySQL",
+            "jQuery",
+            "Bootstrap 5",
+            "HTML5",
+            "CSS3",
+            "JavaScript"
         ],
         "githubLink": "https://github.com/mubashir-hsn/quiz_app",
         "livePreview": ""
-      },
+    },
     {
         "id": "cheezybite_5n8r3x7",
         "name": "CheezyBite – Online Food Ordering Website",
         "description": "CheezyBite is a dynamic food ordering website built using PHP, MySQL, and Bootstrap. It allows users to browse food items, view details, and place online orders through an easy-to-use and responsive interface.",
-        "thumbnail":"https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c1.png?raw=true",
-        "images":[
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c2.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c3.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c1.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c5.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c6.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c7.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c8.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c9.png?raw=true",
-            "https://github.com/mubashir-hsn/project-files/blob/main/cheezybitefiles/c10.png?raw=true"
+        "thumbnail": "/cheezybite/c1.png",
+        "images": [
+            "/cheezybite/c2.png",
+            "/cheezybite/c3.png",
+            "/cheezybite/c1.png",
+            "/cheezybite/c5.png",
+            "/cheezybite/c6.png",
+            "/cheezybite/c7.png",
+            "/cheezybite/c8.png",
+            "/cheezybite/c9.png",
+            "/cheezybite/c10.png"
         ],
         "features": [
-          "Browse food categories and items",
-          "View dish details",
-          "Add to cart and place orders",
-          "View order confirmation and history",
-          "User login and registration",
-          "Responsive layout for all devices"
+            "Browse food categories and items",
+            "View dish details",
+            "Add to cart and place orders",
+            "View order confirmation and history",
+            "User login and registration",
+            "Responsive layout for all devices"
         ],
         "technologies": [
-          "PHP",
-          "MySQL",
-          "Bootstrap",
-          "HTML",
-          "CSS",
-          "JavaScript"
+            "PHP",
+            "MySQL",
+            "Bootstrap",
+            "HTML",
+            "CSS",
+            "JavaScript"
         ],
         "githubLink": "https://github.com/mubashir-hsn/cheezybite",
         "livePreview": ""
-      }
-      
+    }
 ]
