@@ -40,7 +40,8 @@ export default function HeroSection() {
 
         <div className="flex justify-center md:justify-start gap-4 pt-4">
           <a
-            href="#projects"
+            download={true}
+            href="/CV_Mubashar.pdf"
             className="bg-white text-orange-400 font-medium px-6 py-3 rounded-full shadow hover:bg-orange-400 hover:text-white transition-all duration-300 hover:-translate-y-1"
           >
             Download CV
