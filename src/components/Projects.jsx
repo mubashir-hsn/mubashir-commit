@@ -68,7 +68,7 @@ const Projects = () => {
                     <h1 className='text-4xl md:text-5xl font-medium line heading pb-3 text-gray-700'>My Work</h1>
                 </div>
                 <div className='space-y-4'>
-                    <div className='w-full pl-5 flex justify-start items-center gap-5'>
+                    <div className='w-full pl-5 flex flex-wrap justify-start items-center gap-5'>
                         {
                             filters.map((filter, idx) => (
                                 <Button
