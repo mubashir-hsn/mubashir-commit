@@ -142,7 +142,7 @@ const Projects = () => {
                         <div className='md:px-16 py-5 w-full h-auto'>
                             {/* Project name & description */}
                             <div className='p-5 md:p-10 bg-orange-200/50 rounded-xl mb-4 space-y-4'>
-                                <h1 className='text-xl md:text-3xl heading font-medium text-gray-800'>{selectedProject.name}</h1>
+                                <h1 className='text-lg md:text-3xl heading font-medium text-gray-800'>{selectedProject.name}</h1>
                                 <p className='md:text-lg text-gray-600 text-justify'>{selectedProject.description}</p>
 
                                 {/* Project Links */}
@@ -156,13 +156,13 @@ const Projects = () => {
 
                             {/* Project Features & Technologies */}
                             <div className='w-full grid grid-cols-1 md:grid-cols-2 items-center gap-8 p-2  pt-5'>
-                                <div className='p-4 md:p-10 bg-orange-200/50 rounded-xl mb-4'>
+                                <div className='p-2 md:p-10 bg-orange-200/50 rounded-xl mb-4'>
                                     <h2 className='text-lg md:text-2xl heading font-medium pb-4 text-gray-800'>Features</h2>
                                     <ul className='pl-3 capitalize'>
 
                                         {
                                             selectedProject?.features?.map((fea, index) => (
-                                                <li key={index} className='text-gray-600'> <span className="text-amber-700">✔</span> {fea}</li>
+                                                <li key={index} className='text-gray-600 flex items-center gap-2'> <span className="text-amber-700">✔</span> <span>{fea}</span></li>
                                             ))
                                         }
                                     </ul>
