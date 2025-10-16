@@ -150,13 +150,13 @@
         "id": "ai_resume_analyzer_01",
         "name": "AI Resume Analyzer",
         "description": "AI-Resume-Analyzer is a Vite-powered web app that allows users to upload and analyze resumes using AI. It calculates ATS scores, highlights strengths and weaknesses, and provides section-wise tips for improvement—covering skills, structure, summary, and more. Built with React Router and Puter.js for seamless routing and secure authentication.",
-        "thumbnail": "/resumefiles/r5.pue",
+        "thumbnail": "/resumefiles/r5.png",
         "images": [
-            "/resumefiles/r1.pue",
-            "/resumefiles/r2.pue",
-            "/resumefiles/r3.pue",
-            "/resumefiles/r4.pue",
-            "/resumefiles/r5.pue"
+            "/resumefiles/r1.png",
+            "/resumefiles/r2.png",
+            "/resumefiles/r3.png",
+            "/resumefiles/r4.png",
+            "/resumefiles/r5.png"
         ],
         "features": [
             "AI-powered Resume Analysis and ATS Scoring",
@@ -168,6 +168,7 @@
         "technologies": [
             "React.js",
             "Node.js",
+            "TypeScript",
             "Vite",
             "React Router",
             "Puter.js",
