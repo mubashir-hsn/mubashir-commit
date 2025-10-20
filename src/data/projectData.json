@@ -147,6 +147,41 @@
         "livePreview": ""
     },
     {
+        "id": "anonify_6m9p2d7",
+        "name": "Anonify – Anonymous Feedback Sharing Platform",
+        "description": "Anonify is a modern Next.js-based platform that allows users to receive anonymous feedback securely. Users can sign up with NextAuth credentials, verify their email, and share their unique link to get messages or feedback anonymously from others.",
+        "images":[
+            "/anonify/s1.png",
+            "/anonify/s2.png",
+            "/anonify/s3.png",
+            "/anonify/s4.png"
+        ],
+        "thumbnail":"/anonify/s1.png",
+        "features": [
+          "User authentication with NextAuth credentials",
+          "Email verification after signup",
+          "Unique user link for receiving feedback",
+          "Receive and delete anonymous messages",
+          "Update status for accepting messages",
+          "Anonymous users can send feedback without revealing identity",
+          "Responsive and secure user interface"
+        ],
+        "technologies": [
+          "Next.js",
+          "NextAuth",
+          "TypeScript",
+          "MongoDB",
+          "Mongoose",
+          "Nodemailer",
+          "ShadCN UI",
+          "Tailwind CSS",
+          "Zod",
+          "Axios"
+        ],
+        "githubLink": "https://github.com/mubashir-hsn/anonymous",
+        "livePreview": ""
+      },   
+    {
         "id": "ai_resume_analyzer_01",
         "name": "AI Resume Analyzer",
         "description": "AI-Resume-Analyzer is a Vite-powered web app that allows users to upload and analyze resumes using AI. It calculates ATS scores, highlights strengths and weaknesses, and provides section-wise tips for improvement—covering skills, structure, summary, and more. Built with React Router and Puter.js for seamless routing and secure authentication.",
