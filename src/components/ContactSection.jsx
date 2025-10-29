@@ -107,7 +107,7 @@ const ContactSection = () => {
                 <MdOutlineMailOutline className="w-7 h-7 text-orange-400" />
                 <div>
                   <h4 className="font-semibold text-gray-700 text-lg">Email</h4>
-                  <p className="text-gray-500">mubazi80@gmail.com</p>
+                  <p className="text-gray-500">cmubashar369@gmail.com</p>
                 </div>
               </div>
 
